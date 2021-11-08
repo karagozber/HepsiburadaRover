@@ -1,0 +1,29 @@
+C:/Users/BERKARAG/source/repos/Rover/Business/bin/Debug/netstandard2.0/Business.deps.json
+C:/Users/BERKARAG/source/repos/Rover/Business/bin/Debug/netstandard2.0/Business.dll
+C:/Users/BERKARAG/source/repos/Rover/Business/bin/Debug/netstandard2.0/Business.pdb
+C:/Users/BERKARAG/source/repos/Rover/Business/bin/Debug/netstandard2.0/Entities.dll
+C:/Users/BERKARAG/source/repos/Rover/Business/bin/Debug/netstandard2.0/Entities.pdb
+C:/Users/BERKARAG/source/repos/Rover/Business/obj/Debug/netstandard2.0/Business.csprojAssemblyReference.cache
+C:/Users/BERKARAG/source/repos/Rover/Business/obj/Debug/netstandard2.0/Business.AssemblyInfoInputs.cache
+C:/Users/BERKARAG/source/repos/Rover/Business/obj/Debug/netstandard2.0/Business.AssemblyInfo.cs
+C:/Users/BERKARAG/source/repos/Rover/Business/obj/Debug/netstandard2.0/Business.csproj.CoreCompileInputs.cache
+C:/Users/BERKARAG/source/repos/Rover/Business/obj/Debug/netstandard2.0/Business.csproj.CopyComplete
+C:/Users/BERKARAG/source/repos/Rover/Business/obj/Debug/netstandard2.0/Business.dll
+C:/Users/BERKARAG/source/repos/Rover/Business/obj/Debug/netstandard2.0/Business.pdb
+C:/Users/BERKARAG/source/repos/Rover/Business/bin/Debug/netstandard2.0/Common.dll
+C:/Users/BERKARAG/source/repos/Rover/Business/bin/Debug/netstandard2.0/Common.pdb
+/Users/berkay/Downloads/Rover 2/Business/bin/Debug/netstandard2.0/Business.deps.json
+/Users/berkay/Downloads/Rover 2/Business/bin/Debug/netstandard2.0/Business.dll
+/Users/berkay/Downloads/Rover 2/Business/bin/Debug/netstandard2.0/Business.pdb
+/Users/berkay/Downloads/Rover 2/Business/bin/Debug/netstandard2.0/Common.dll
+/Users/berkay/Downloads/Rover 2/Business/bin/Debug/netstandard2.0/Entities.dll
+/Users/berkay/Downloads/Rover 2/Business/bin/Debug/netstandard2.0/Entities.pdb
+/Users/berkay/Downloads/Rover 2/Business/bin/Debug/netstandard2.0/Common.pdb
+/Users/berkay/Downloads/Rover 2/Business/obj/Debug/netstandard2.0/Business.csproj.AssemblyReference.cache
+/Users/berkay/Downloads/Rover 2/Business/obj/Debug/netstandard2.0/Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkay/Downloads/Rover 2/Business/obj/Debug/netstandard2.0/Business.AssemblyInfoInputs.cache
+/Users/berkay/Downloads/Rover 2/Business/obj/Debug/netstandard2.0/Business.AssemblyInfo.cs
+/Users/berkay/Downloads/Rover 2/Business/obj/Debug/netstandard2.0/Business.csproj.CoreCompileInputs.cache
+/Users/berkay/Downloads/Rover 2/Business/obj/Debug/netstandard2.0/Business.csproj.CopyComplete
+/Users/berkay/Downloads/Rover 2/Business/obj/Debug/netstandard2.0/Business.dll
+/Users/berkay/Downloads/Rover 2/Business/obj/Debug/netstandard2.0/Business.pdb

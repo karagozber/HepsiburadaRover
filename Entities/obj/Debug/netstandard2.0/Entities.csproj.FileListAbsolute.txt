@@ -1,0 +1,25 @@
+C:/Users/BERKARAG/source/repos/Rover/Entities/bin/Debug/netstandard2.0/Entities.deps.json
+C:/Users/BERKARAG/source/repos/Rover/Entities/bin/Debug/netstandard2.0/Entities.dll
+C:/Users/BERKARAG/source/repos/Rover/Entities/bin/Debug/netstandard2.0/Entities.pdb
+C:/Users/BERKARAG/source/repos/Rover/Entities/obj/Debug/netstandard2.0/Entities.AssemblyInfoInputs.cache
+C:/Users/BERKARAG/source/repos/Rover/Entities/obj/Debug/netstandard2.0/Entities.AssemblyInfo.cs
+C:/Users/BERKARAG/source/repos/Rover/Entities/obj/Debug/netstandard2.0/Entities.csproj.CoreCompileInputs.cache
+C:/Users/BERKARAG/source/repos/Rover/Entities/obj/Debug/netstandard2.0/Entities.dll
+C:/Users/BERKARAG/source/repos/Rover/Entities/obj/Debug/netstandard2.0/Entities.pdb
+C:/Users/BERKARAG/source/repos/Rover/Entities/bin/Debug/netstandard2.0/Common.dll
+C:/Users/BERKARAG/source/repos/Rover/Entities/bin/Debug/netstandard2.0/Common.pdb
+C:/Users/BERKARAG/source/repos/Rover/Entities/obj/Debug/netstandard2.0/Entities.csprojAssemblyReference.cache
+C:/Users/BERKARAG/source/repos/Rover/Entities/obj/Debug/netstandard2.0/Entities.csproj.CopyComplete
+/Users/berkay/Downloads/Rover 2/Entities/bin/Debug/netstandard2.0/Entities.deps.json
+/Users/berkay/Downloads/Rover 2/Entities/bin/Debug/netstandard2.0/Entities.dll
+/Users/berkay/Downloads/Rover 2/Entities/bin/Debug/netstandard2.0/Entities.pdb
+/Users/berkay/Downloads/Rover 2/Entities/bin/Debug/netstandard2.0/Common.dll
+/Users/berkay/Downloads/Rover 2/Entities/bin/Debug/netstandard2.0/Common.pdb
+/Users/berkay/Downloads/Rover 2/Entities/obj/Debug/netstandard2.0/Entities.csproj.AssemblyReference.cache
+/Users/berkay/Downloads/Rover 2/Entities/obj/Debug/netstandard2.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkay/Downloads/Rover 2/Entities/obj/Debug/netstandard2.0/Entities.AssemblyInfoInputs.cache
+/Users/berkay/Downloads/Rover 2/Entities/obj/Debug/netstandard2.0/Entities.AssemblyInfo.cs
+/Users/berkay/Downloads/Rover 2/Entities/obj/Debug/netstandard2.0/Entities.csproj.CoreCompileInputs.cache
+/Users/berkay/Downloads/Rover 2/Entities/obj/Debug/netstandard2.0/Entities.csproj.CopyComplete
+/Users/berkay/Downloads/Rover 2/Entities/obj/Debug/netstandard2.0/Entities.dll
+/Users/berkay/Downloads/Rover 2/Entities/obj/Debug/netstandard2.0/Entities.pdb

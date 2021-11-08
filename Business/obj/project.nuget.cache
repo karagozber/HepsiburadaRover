@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "J98Oy/HC6q4PeeOEaSobkE+SCEk6JuoqBJLXi5kXkRwj7mMAJ9zCJelf4t7rkH/uzoiuD5Polvb+z3f73qXiDg==",
+  "success": true,
+  "projectFilePath": "/Users/berkay/Downloads/Rover 2/Business/Business.csproj",
+  "expectedPackageFiles": [
+    "/Users/berkay/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/berkay/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WZaFaM5I9ppSxsR2jYGi6o3UmkifOLgN1kj2wU39D+/9Ha5rt+HlVZFUsEb8Ozhuy/roMc0/VL/FHw0QXY1S0Q==",
+  "success": true,
+  "projectFilePath": "/Users/berkay/Downloads/Rover 2/Entities/Entities.csproj",
+  "expectedPackageFiles": [
+    "/Users/berkay/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/berkay/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

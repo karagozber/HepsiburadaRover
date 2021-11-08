@@ -1,0 +1,18 @@
+C:/Users/BERKARAG/source/repos/Rover/Common/bin/Debug/netstandard2.0/Common.deps.json
+C:/Users/BERKARAG/source/repos/Rover/Common/bin/Debug/netstandard2.0/Common.dll
+C:/Users/BERKARAG/source/repos/Rover/Common/bin/Debug/netstandard2.0/Common.pdb
+C:/Users/BERKARAG/source/repos/Rover/Common/obj/Debug/netstandard2.0/Common.AssemblyInfoInputs.cache
+C:/Users/BERKARAG/source/repos/Rover/Common/obj/Debug/netstandard2.0/Common.AssemblyInfo.cs
+C:/Users/BERKARAG/source/repos/Rover/Common/obj/Debug/netstandard2.0/Common.csproj.CoreCompileInputs.cache
+C:/Users/BERKARAG/source/repos/Rover/Common/obj/Debug/netstandard2.0/Common.dll
+C:/Users/BERKARAG/source/repos/Rover/Common/obj/Debug/netstandard2.0/Common.pdb
+/Users/berkay/Downloads/Rover 2/Common/bin/Debug/netstandard2.0/Common.deps.json
+/Users/berkay/Downloads/Rover 2/Common/bin/Debug/netstandard2.0/Common.dll
+/Users/berkay/Downloads/Rover 2/Common/bin/Debug/netstandard2.0/Common.pdb
+/Users/berkay/Downloads/Rover 2/Common/obj/Debug/netstandard2.0/Common.csproj.AssemblyReference.cache
+/Users/berkay/Downloads/Rover 2/Common/obj/Debug/netstandard2.0/Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkay/Downloads/Rover 2/Common/obj/Debug/netstandard2.0/Common.AssemblyInfoInputs.cache
+/Users/berkay/Downloads/Rover 2/Common/obj/Debug/netstandard2.0/Common.AssemblyInfo.cs
+/Users/berkay/Downloads/Rover 2/Common/obj/Debug/netstandard2.0/Common.csproj.CoreCompileInputs.cache
+/Users/berkay/Downloads/Rover 2/Common/obj/Debug/netstandard2.0/Common.dll
+/Users/berkay/Downloads/Rover 2/Common/obj/Debug/netstandard2.0/Common.pdb
